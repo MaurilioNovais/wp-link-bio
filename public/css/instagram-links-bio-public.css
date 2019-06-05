@@ -1,0 +1,34 @@
+.c-link-bio-plugin .c-link-bio-plugin-item {
+    overflow: hidden;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.c-link-bio-plugin .c-link-bio-plugin-imagem {
+    height: 150px;
+    background-position: center;
+}
+
+.c-link-bio-plugin .c-link-bio-plugin-item-dados {
+    padding: 15px;
+}
+
+.c-link-bio-plugin .c-link-bio-plugin-titulo {
+    min-height: 30px;
+}
+.c-link-bio-plugin .c-link-bio-plugin-titulo h2 {
+    font-size: 1.15em;
+    line-height: 1.4em;
+    margin-top: 0;
+}
+.c-link-bio-plugin .c-link-bio-plugin-categoria div {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.c-link-bio-plugin .c-link-bio-plugin-meta__data {
+    color: #999;
+}
+.c-link-bio-plugin .c-link-bio-plugin-descricao {
+    min-height: 70px;
+    margin-top: 15px;
+}
